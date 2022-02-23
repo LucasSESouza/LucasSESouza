@@ -1,6 +1,6 @@
 ## Olá, eu sou o Lucas Souza, estudante de Front-End e UX Design. Também sou graduando de Ciências Sociais na Unicamp!
 
-#$$ Estou aprendendo:
+### Estou aprendendo:
 
 </div>
 <div style="display: inline_block"><br>
