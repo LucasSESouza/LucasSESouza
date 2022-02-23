@@ -1,6 +1,6 @@
 ## Olá, eu sou o Lucas Souza, estudante de Front-End e UX Design. Também sou graduando de Ciências Sociais na Unicamp!
 
-# Estou aprendendo:
+#$$ Estou aprendendo:
 
 </div>
 <div style="display: inline_block"><br>
@@ -11,6 +11,10 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+### Sobre mim:
+
+Estudo Front-End e UX Design e também sou graduando de Ciências Sociais, com ênfase em antropologia e sociologia, na Unicamp (Universidade Estadual de Campinas). Meu interesse em tecnologia, enquanto estudante de sociais, surge pois, acredito que meus conhecimentos da graduação na área de humanas - por desenvolver habilidades de estudo de grupos, comportamento, estrutura social e etnografia – quando conectados a área da tecnologia, contribuem para o desenvolvimento de projetos digitais que mais se aproximam daquilo que o público alvo deseja e necessita.
+
 ##
 
 <div>
@@ -18,7 +22,5 @@
 <a href="mailto:lucassesouza@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://medium.com/@lucassesouza" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </div>
-
-### Sobre mim:
 
                                       
