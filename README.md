@@ -5,7 +5,7 @@
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   <img align="center" alt="Lucas-React" height="30" width="40" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="<link rel="stylesheet" href="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
 ##
