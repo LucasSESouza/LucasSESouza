@@ -1,4 +1,4 @@
-## Olá, eu sou o Lucas Souza, estudante de Front-End e UX Design. Também sou graduando de Ciências Sociais na Unicamp!
+## Olá, eu sou o Lucas Souza, atualmente estudo R com voltado para as ciências sociais, curdo o qual estou fazendo na Unicamp!.
 
 ### Estou aprendendo:
 
