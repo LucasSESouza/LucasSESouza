@@ -13,7 +13,7 @@
 
 ### Sobre mim:
 
-Estudo Front-End e UX Design e também sou graduando de Ciências Sociais, com ênfase em antropologia e sociologia, na Unicamp (Universidade Estadual de Campinas). Meu interesse em tecnologia, enquanto estudante de sociais, surge pois, acredito que meus conhecimentos da graduação na área de humanas - por desenvolver habilidades de estudo de grupos, comportamento, estrutura social e etnografia – quando conectados a área da tecnologia, contribuem para o desenvolvimento de projetos digitais que mais se aproximam daquilo que o público alvo deseja e necessita.
+
 
 ##
 
