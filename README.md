@@ -4,9 +4,7 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://www.gratispng.com/png-pox1mq/">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://img2.gratispng.com/20180821/pvp/kisspng-programming-language-statistics-python-data-analys-5b7ca8951395f2.4382416815348962770802.jpg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
