@@ -1,4 +1,4 @@
-## Olá, eu sou o Lucas Souza, estudo análise de dados voltada para as ciências sociais, curso o qual estou fazendo na Unicamp!
+## Olá, eu sou o Lucas Souza, estudo ciências sociais e ciência de dados!
 
 ### Estou aprendendo:
 
